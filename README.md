@@ -1,1 +1,1 @@
-# Tài liệu tự học Python của mình :) 
+# Tài liệu tự học Python của mình
